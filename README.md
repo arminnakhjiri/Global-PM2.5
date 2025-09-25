@@ -19,11 +19,6 @@ The project includes scripts for:
 
 ## 🛰 Dataset Information
 
-**Dataset:** Global Monthly & Annual Satellite-derived PM2.5  
-**Provider:** Atmospheric Composition Analysis Group, Washington University in St. Louis  
-**Curated in GEE by:** Samapriya Roy  
-**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
-
 **Citation:**  
 Shen, S., Li, C., van Donkelaar, A., Jacobs, N., Wang, C., Martin, R. V. (2024). *Enhancing Global Estimation of Fine Particulate Matter Concentrations by Including Geophysical a Priori Information in Deep Learning*. ACS ES&T Air. DOI: [10.1021/acsestair.3c00054](https://doi.org/10.1021/acsestair.3c00054)
 
